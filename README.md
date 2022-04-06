@@ -9,3 +9,5 @@ Additionally, several machine learning algorithms to compare their results on ef
 
 ## Data Science - Remote Sensing Imagery - Machine Learning preparation
 This Python function creates training, testing and validation data sets from remote sensing imagery for better classification of 2 classification types to be ran through a machine learning algorithm.
+
+[Remote Sensing ML Splitter](Remote_Sensing_ML_Splitter.ipynb)
