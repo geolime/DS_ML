@@ -1,4 +1,4 @@
-# Data Science - MAchine Learning
+# Data Science - Machine Learning
 Data Science - Machine Learning practice cases
 
 ## Data Science - Soil analysis and prediction with machine learning
