@@ -2,7 +2,7 @@
 Data Science - Machine Learning practice cases
 
 ## Data Science - Soil analysis and prediction with machine learning
-This Python script does basic analysis and comparison on location ##based soil data to remote sensing based soil data.
+This Python script does basic analysis and comparison on location based soil data to remote sensing based soil data.
 Additionally, several machine learning algorithms to compare their results on effictivity between.
 
 [Data Science Soil Analysis Script](Data_Science_Soil_ML.ipynb)
